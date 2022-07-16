@@ -255,7 +255,7 @@ async def play(c: Client, m: Message):
                       reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("💭 Support", url=f"https://t.me/OmFoXD")
+                            InlineKeyboardButton("💭 Support", url=f"https://t.me/Nikhil_Bots")
                         ],
                         [
                             InlineKeyboardButton("🗑 Close", callback_data="cls")
