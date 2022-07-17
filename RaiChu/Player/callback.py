@@ -56,7 +56,7 @@ async def cbguides(_, query: CallbackQuery):
     await query.edit_message_text(
         f"""❓ **Basic Guide for using this bot:**
         
-⊙ https://telegra.ph/file/9fa805e33e58bac5127a1.mp4
+⊙ https://te.legra.ph/file/1ca9f4ebebf50fd1d705a.jpg
 
 1.) **First, add me to your group.**
 2.) **Then, promote me as administrator and give all permissions except Anonymous Admin.**
@@ -69,7 +69,7 @@ async def cbguides(_, query: CallbackQuery):
 
 💡 **If you have a follow-up questions about this bot, you can tell it on my support chat here: @{GROUP_SUPPORT}**
 
-**✨ ᴘᴏᴡᴇʀᴅ ʙʏ  Kɪɢᴏ** """,
+**✨ ᴘᴏᴡᴇʀᴅ ʙʏ  Nikhil** """,
         reply_markup=InlineKeyboardMarkup(
             [[InlineKeyboardButton("ʙ ᴀ ᴄ ᴋ", callback_data="cbstart")]]
         ),
@@ -83,7 +83,7 @@ async def cbcmds(_, query: CallbackQuery):
 
 » **press the button below to read the explanation and see the list of available commands !**
 
-**✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: Kɪɢᴏ!** """,
+**✗ Pᴏᴡᴇʀᴇᴅ 💕 Bʏ: Nikhil!** """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
