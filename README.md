@@ -1,3 +1,2 @@
-# this repo is no longer Update use [RaiChu-New](https://github.com/Nameg1708/RaiChu-Music)
-<b> (Deploy)][https://heroku.com/deploy?template=https://github.com/Nameg1708/RaiChu-Music]
-#Hi#
+# The Best bot for telegram music 
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Nameg1708/RaiChu-music">
